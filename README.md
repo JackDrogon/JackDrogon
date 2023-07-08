@@ -1,4 +1,4 @@
-### About Me
+### 👋 Hey
 
 ![](https://komarev.com/ghpvc/?username=JackDrogon)
 
