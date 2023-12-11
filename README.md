@@ -4,8 +4,8 @@
 
 I’m a Database System Developer.
 
-* 🤔 I'm interested in Database System such as OLTP(NoSQL, NewSQL), OLAP, HTAP, HSAP. OS and compiler is also sexy. 
-* 👯 I have worked with linux kernel, compiler(gcc/llvm/go), db(riak,memcached, redis, tikv, tidb, some ByteDance self-developed databae systems，clickhouse, doris)...
+* 🤔 I'm interested in Database System such as OLTP(NoSQL, NewSQL), OLAP, HTAP, HSAP. OS and compiler is also sexy. AI and blockchain are my cup of tea too!
+* 👯 I have worked with linux kernel, compiler(gcc/llvm/go/python/ruby/erlang-elixir otp), db(riak,memcached, redis, tikv, tidb, some ByteDance self-developed databae systems, clickhouse, doris)...
 * 🏢 I'm working in SelectDB. I used to work for Bytedance.
 * 👨🏻‍💻 I'm a multi-paradigm programmer. Working with C++, Rust, Go, Python, Ruby, Erlang/Elixir, Java and etc...
 
