@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JackDrogon)
 
-I’m a Database System Developer.
+I’m a Database System and BlockChain Developer.
 
 * 🤔 I'm interested in Database System such as OLTP(NoSQL, NewSQL), OLAP, HTAP, HSAP. OS and compiler is also sexy. AI and blockchain are my cup of tea too!
 * 👯 I have worked with linux kernel, compiler(gcc/llvm/go/rust/python/ruby/erlang/elixir), db(riak,memcached, redis, tikv, tidb, some ByteDance self-developed databae systems, clickhouse, doris)...
